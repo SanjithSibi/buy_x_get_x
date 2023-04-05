@@ -1,0 +1,19 @@
+{
+  "name": "vendor_name/free_gift",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "sanjith",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+      "psr-4": {
+      "Fg\\": ""
+    }
+  }
+}
