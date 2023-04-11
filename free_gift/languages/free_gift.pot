@@ -25,3 +25,10 @@ msgstr ""
 #: App/controller/Base.php:14
 msgid "Free Gifts"
 msgstr ""
+
+msgid "Free Gifts"
+msgstr "Click here to add gift"
+
+
+
+
